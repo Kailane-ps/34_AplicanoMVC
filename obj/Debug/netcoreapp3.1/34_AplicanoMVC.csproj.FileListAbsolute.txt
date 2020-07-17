@@ -1,0 +1,13 @@
+C:\Users\Kailane\Desktop\SENAI K\34_AplicanoMVC\bin\Debug\netcoreapp3.1\34_AplicanoMVC.exe
+C:\Users\Kailane\Desktop\SENAI K\34_AplicanoMVC\bin\Debug\netcoreapp3.1\34_AplicanoMVC.deps.json
+C:\Users\Kailane\Desktop\SENAI K\34_AplicanoMVC\bin\Debug\netcoreapp3.1\34_AplicanoMVC.runtimeconfig.json
+C:\Users\Kailane\Desktop\SENAI K\34_AplicanoMVC\bin\Debug\netcoreapp3.1\34_AplicanoMVC.runtimeconfig.dev.json
+C:\Users\Kailane\Desktop\SENAI K\34_AplicanoMVC\bin\Debug\netcoreapp3.1\34_AplicanoMVC.dll
+C:\Users\Kailane\Desktop\SENAI K\34_AplicanoMVC\bin\Debug\netcoreapp3.1\34_AplicanoMVC.pdb
+C:\Users\Kailane\Desktop\SENAI K\34_AplicanoMVC\obj\Debug\netcoreapp3.1\34_AplicanoMVC.csprojAssemblyReference.cache
+C:\Users\Kailane\Desktop\SENAI K\34_AplicanoMVC\obj\Debug\netcoreapp3.1\34_AplicanoMVC.AssemblyInfoInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\34_AplicanoMVC\obj\Debug\netcoreapp3.1\34_AplicanoMVC.AssemblyInfo.cs
+C:\Users\Kailane\Desktop\SENAI K\34_AplicanoMVC\obj\Debug\netcoreapp3.1\34_AplicanoMVC.csproj.CoreCompileInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\34_AplicanoMVC\obj\Debug\netcoreapp3.1\34_AplicanoMVC.dll
+C:\Users\Kailane\Desktop\SENAI K\34_AplicanoMVC\obj\Debug\netcoreapp3.1\34_AplicanoMVC.pdb
+C:\Users\Kailane\Desktop\SENAI K\34_AplicanoMVC\obj\Debug\netcoreapp3.1\34_AplicanoMVC.genruntimeconfig.cache
